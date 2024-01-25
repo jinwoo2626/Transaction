@@ -2,7 +2,26 @@
 SpringSecurity, JWT, Oauth2.0(Client_Credential), D-Bridge를 이용한 중고거래사이트
 
 ### 기능
-추가작성예정
+- 회원관리
+  - 회원가입
+  - 로그인
+  - 권한관리
+  - 로그아웃
+
+- 상품관리
+  - 상품등록
+  - 상품수정
+
+- 계좌관리
+  - 계좌등록
+  - 입금/출금
+  - 이체
+
+- 거래관리
+  - 상품예약
+  - 예약거절/취소
+  - 상품거래
+    
 
 ### 기술 스택
 #### Backend (Java, Spring Framework)
